@@ -26,9 +26,6 @@ you should create your own Apikey to requrst data from ALPHA VANTAGE. you can vi
 
 
 **Sample**
-for apple is AAPL
-for Microsoft is MSFT
+-for apple is AAPL
 
-
-// to run the server 
-npm run serve
+-for Microsoft is MSFT

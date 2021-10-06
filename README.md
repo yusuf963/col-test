@@ -25,6 +25,15 @@ you should create your own Apikey to requrst data from ALPHA VANTAGE. you can vi
 **2:** the app should run on your default browers on port 8000
 
 
+**Challenges**
+
+During the development I have faced an issue with the limitation of the API free call, as apparently I have exceed the free call limit and this edere me of finishing the task on time, however I have implamented another feature which is dropdown selection and created a life URl for the App
+
+
+**What if I have more time**
+
+if I ahve more time I would render the data dynamically and do the filtering functiona nd study the Api documnetation more 
+
 **Sample**
 -for apple is AAPL
 

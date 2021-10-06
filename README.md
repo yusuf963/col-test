@@ -1,4 +1,4 @@
-# ALPHA VANTAGE
+# ALPHA VANTAGE API
 This project is for Colmore Co, its a show case my experince and ability to implament solutions using Tech stack aligned with the company Tech stack
 
 
@@ -10,7 +10,7 @@ you should create your own Apikey to requrst data from ALPHA VANTAGE. you can vi
 
 **Steps:**
 
-1-To run the app do the following 
+**1:**-To run the app do the following 
 
  a.clone the repo to your machine
  
@@ -22,10 +22,11 @@ you should create your own Apikey to requrst data from ALPHA VANTAGE. you can vi
  
  e.then run ```npm run serve```
  
-2-the app should run on your default browers on port 8000
+**2:** the app should run on your default browers on port 8000
 
 
 **Sample**
 -for apple is AAPL
 
 -for Microsoft is MSFT
+

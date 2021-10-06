@@ -27,7 +27,7 @@ you should create your own Apikey to requrst data from ALPHA VANTAGE. you can vi
 
 **Challenges**
 
-During the development I have faced an issue with the limitation of the API free call, as apparently I have exceed the free call limit and this edere me of finishing the task on time, however I have implamented another feature which is dropdown selection and created a live URl for the App
+During the development I have faced an issue with the limitation of the API free call, as apparently I have exceed the free call limit and this edere me of finishing the task on time, however I have implamented another feature which is dropdown selection to select company and contairize teh app using docker and created a live URl for the App
  Live Url
   https://yusuf963.github.io/col-test/
 
